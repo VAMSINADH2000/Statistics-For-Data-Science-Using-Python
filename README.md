@@ -2,6 +2,7 @@
 This Repo Contains implementations of statistical concepts in Python
 
 Concepts Covered:
+
 1.Mean,Median,Mode
 
 2.Outlier Detection And Removal
